@@ -1,0 +1,41 @@
+body{
+	width:650px ;
+
+}
+#principal{
+	color:#AB3802;
+}
+table{
+	border-collapse: collapse;
+}
+tr{
+	color:green;
+}
+.str, caption{
+	color:#4089D1;
+}
+a{
+	color:#F568E2;
+}
+#secundario{
+	color:#CDB34A;
+	font-size: 30px;
+}
+ul{
+	color:red;
+}
+.resalte{
+	color:#80612F;
+	font-weight: bolder;
+}
+.www
+{
+	color:#C817E7;
+	font-size: 16px;
+}
+#derechos{
+	font-style: italic;
+}
+#prohibido{
+	color:green;
+}
